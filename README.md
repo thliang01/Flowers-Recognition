@@ -63,7 +63,7 @@ For each class there are about 800 photos. Photos are not high resolution, about
 
 ---
 
-## TODO Day 3
+## TODO
 
 * Try Hyperparameter Tuning
 * Convert the notebook code into flask backend and test it using backend only
