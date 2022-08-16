@@ -1,9 +1,5 @@
 # Flowers-Recognition
 
-<!--
-* [Flowers-Recognition-Streamlit](https://huggingface.co/spaces/thliang01/Flowers-Recognition-Streamlit)
-* [Flowers-Recognition-Gradio](https://huggingface.co/spaces/thliang01/Flowers-Recognition-Gradio)
--->
 
 ## Introduction
 
